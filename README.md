@@ -20,22 +20,40 @@ testik
 
 
 t
+
 e
+
 s
+
 t
+
 a
+
 n
+
 n
+
 o
+
 y
+
 i
+
 n
+
 g
 
+
 wonderful
+
 weather
+
 what 
+
 a
-wonderful 
+
+wonderful
+
 weather
+
 
