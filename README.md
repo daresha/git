@@ -10,3 +10,32 @@ coffee coffee
 
 testik
 [test](#testgit)
+
++ t
++ e
++ s
++ t
++
+
+
+
+t
+e
+s
+t
+a
+n
+n
+o
+y
+i
+n
+g
+
+wonderful
+weather
+what 
+a
+wonderful 
+weather
+
